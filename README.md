@@ -1,2 +1,2 @@
-# exer1
+# exercicios de python
 Testando meus conhecimentos básicos sobre Python

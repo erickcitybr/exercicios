@@ -37,7 +37,7 @@ while True:
         contador_de_latas = contador_de_litros / 18
         time.sleep(1)
 
-        print(f'Quantidade de lata(s) de tinha a serem usada(s) são ', end='')
+        print(f'Quantidade de lata(s) de tinta a serem usada(s) são ', end='')
         if contador_de_latas < 1:
             print('aproximadamente 1.')
         else:

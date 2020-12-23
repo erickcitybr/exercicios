@@ -61,7 +61,6 @@ while True:
             print('~' * 80)
 
         opcao = str(input('Quer continuar? [S/N] ')).strip().upper()
-        print(litro, contador_de_litros, contador_de_latas, preco)
         if opcao == 'S':
             print('=-' * 40)
             print(f'\033[1;37m{"Aguarde um instante...":^80}\033[m')
